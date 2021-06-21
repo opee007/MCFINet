@@ -26,7 +26,7 @@ Models could be tested by running:
   python test.py
   ```
 
-![Results](./img/results.png)
+![Results](./img/results.png) 
 
 ### Citation
 If you find this project useful for your research, please cite this paper:
